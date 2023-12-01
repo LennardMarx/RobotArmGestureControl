@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Robot Arm Gesture Control
+Type=Application
+# Exec=/home/lennard/Projects/RobotArm/bin/robotarm
+Exec=/home/lennard/Projects/RobotArmGestureControl/run.sh
+Icon=/home/lennard/Projects/RobotArmGestureControl/resources/robotarm_icon.png
+Terminal=false
